@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "category": "Gadgets",
+      "img": "../images/gadjets.svg",
+      "name": "5 Must-Have Gadgets for the Modern Home",
+      "info": "Dive into the world of cutting-edge technology with our latest blog post, where we highlight five essential gadg..."
+    },
+    {
+      "id": 2,
+      "category": "Phones",
+      "img": "../images/gadjets.svg",
+      "name": "Eco-Friendly Innovations Making a Difference",
+      "info": "Explore the intersection of technology and sustainability in our latest blog post. Learn about the innovative eco-fr..."
+    },
+    {
+      "id": 3,
+      "category": "Tech",
+      "img": "../images/gadjets.svg",
+      "name": "The Future of Wearable Tech: Trends to Watch",
+      "info": "Stay ahead of the curve with our insightful look into the rapidly evolving landscape of wearable technology. E..."
+    },
+    {
+      "id": 4,
+      "category": "Digital Watch",
+      "img": "../images/gadjets.svg",
+      "name": "Top Apps and Tools for Remote Work",
+      "info": "In today's remote work environment, productivity is key. Discover the top apps and tools that can help you stay o..."
+    }
+  ],
+  "comment": [
+    {
+      "point": "“I stumbled upon this tech store while searching for a new laptop, and I couldn't be happier with my experience! The staff was incredibly knowledgeable and guided me through the process of choosing the perfect device for my needs. Highly recommended!”",
+      "grade": "5",
+      "user": "Emma Chamberlin"
+    },
+    {
+      "point": "“This tech store is my go-to for all things tech! Whether it's a new smartphone, accessories, or even troubleshooting advice, they've always got me covered. The staff is friendly, and their expertise is unmatched. Trust me; you won't regret shopping here!”",
+      "grade": "5",
+      "user": "Thomas John"
+    },
+    {
+      "point": "“I recently purchased a smartwatch from this tech store, and I'm absolutely thrilled with my purchase! Not only did they have an extensive selection to choose from, but their team helped me find the perfect fit for my lifestyle.”",
+      "grade": "5",
+      "user": "Kevin Bryan"
+    },
+    {
+      "point": "“I recently purchased a smartwatch from this tech store, and I'm absolutely thrilled with my purchase! Not only did they have an extensive selection to choose from, but their team helped me find the perfect fit for my lifestyle.”",
+      "grade": "5",
+      "user": "Jerry Gilbert"
+    },
+    {
+      "point": "“I recently purchased a smartwatch from this tech store, and I'm absolutely thrilled with my purchase! Not only did they have an extensive selection to choose from, but their team helped me find the perfect fit for my lifestyle.”",
+      "grade": "5",
+      "user": "Elena Petrov"
+    },
+    {
+      "point": "“I recently purchased a smartwatch from this tech store, and I'm absolutely thrilled with my purchase! Not only did they have an extensive selection to choose from, but their team helped me find the perfect fit for my lifestyle.”",
+      "grade": "5",
+      "user": "Damon Salvatore"
+    }
+  ]
+}
